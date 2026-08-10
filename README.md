@@ -1,4 +1,4 @@
-<img align="right" src="profile.jpg" alt="Ayush Adi" width="170" />
+<img align="right" src="profile.png" alt="Ayush Adi" width="170" />
 
 ## Hi there
 Hey, I'm Ayush. I build AI products for healthcare, research, sports analytics, and real-time decision systems. Here's some more about me:
